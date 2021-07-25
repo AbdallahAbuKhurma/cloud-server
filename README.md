@@ -17,3 +17,11 @@
 7. Zip the public folder, app.js and package.json for deployment purposes.
 
 8. Push the code to GitHub.
+
+9. Deploy the server using AWS services.
+
+## Deployment URLS
+
+1.
+
+2.
