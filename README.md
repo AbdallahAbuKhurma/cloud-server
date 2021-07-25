@@ -1,5 +1,7 @@
 # cloud-server
 
+## Author: Abdallah Abu Khurma
+
 ## Process
 
 1. First to craete a new repo.
@@ -20,8 +22,6 @@
 
 9. Deploy the server using AWS services.
 
-## Deployment URLS
+## Deployment URL
 
-1.
-
-2.
+[Cloud-Server](http://cloudserver-env-1.eba-nyasgju3.us-east-1.elasticbeanstalk.com/)
