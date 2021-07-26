@@ -24,4 +24,4 @@
 
 ## Deployment URL
 
-[Cloud-Server](http://cloudserver-env-1.eba-nyasgju3.us-east-1.elasticbeanstalk.com/)
+[Cloud-Server](http://cloudserver-env-2.eba-r3dkdu4z.us-east-1.elasticbeanstalk.com/)
